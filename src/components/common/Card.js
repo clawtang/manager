@@ -24,7 +24,7 @@ const styles = {
     elevation: 1,
     marginLeft: 5,
     marginRight: 5,
-    marginTop: 70,
+    // marginTop: 70,
     // flex: 1,
   }
 };
